@@ -7,5 +7,5 @@ Este es un blog increíble de aprendizaje de git y github
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas practicas.
 * Creado por el increible Platzi team.
-
+* Incluye ejemplos en windows, Linux y Mac
 Y como recordatorio este **Readme es un ejemplo de que cada repositorio lleva un archivo de estos** y que se muestra como hacerlo y porque hacerlo. Todo esto y mucho mas en el curso de platzi!👉 [Mi blogpost](https://osegueda.github.io/hyperblog-git//blogpost.html "Mi blogpost")
