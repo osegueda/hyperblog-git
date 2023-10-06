@@ -11,3 +11,13 @@ Este es un blog increíble de aprendizaje de git y github
 * Disponible para todas las edades
 
 Y como recordatorio este **Readme es un ejemplo de que cada repositorio lleva un archivo de estos** y que se muestra como hacerlo y porque hacerlo. Todo esto y mucho mas en el curso de platzi!👉 [Mi blogpost](https://osegueda.github.io/hyperblog-git//blogpost.html "Mi blogpost")
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
